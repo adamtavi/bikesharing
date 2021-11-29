@@ -44,8 +44,8 @@ At the end of the analysis our team comes up with a recommendation on how this b
 -	This shows bikes utilization counts – the darker region shows higher bike utilization and the lighter region showing lesser bike utilization. This allows us to see that there are more bikes in the lower bike utilization side than the higher utilization side.
 
 ## Summary
-High-level analysis of the results is that this seems to work well in NYC and has potential to work very well in Des Moines. It’s important to follow NYC’s strategy of getting more customers as subscribers and provide people a cheaper opportunity for everyday travel. 
+High-level analysis of the results is that this business seems to work well in NYC and has potential to work very well in Des Moines. It’s important to follow NYC’s strategy of getting more customers as subscribers and provide people a cheaper opportunity for everyday travel. 
 One future analysis could be showing where in Des Moines are there people living close to work since the data supports that most people use this service before work and after work hours. Another future analysis could be how much does it cost to maintain a bike to show further break down on potential expenses / maintenances
 
-
+[link to dashboard](https://public.tableau.com/app/profile/adam.joshua.tavizon/viz/NYCStory_16381300020350/NYCStory)
 
