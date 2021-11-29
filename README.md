@@ -9,7 +9,7 @@ At the end of the analysis our team comes up with a recommendation on how this b
 
 ## Analysis 
 ### Checkout times for users
-
+![This is an Image]( https://github.com/adamtavi/bikesharing/blob/main/Checkout%20times%20for%20user%20wiz.png)
 ### Results
 -	As you can see majority of checkout times largely last around 20minutes looking at the data. This shows that most people don’t checkout a bike longer for a relatively short amount of time throughout a day.
 
