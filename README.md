@@ -14,7 +14,7 @@ At the end of the analysis our team comes up with a recommendation on how this b
 -	As you can see majority of checkout times largely last around 20minutes looking at the data. This shows that most people don’t checkout a bike longer for a relatively short amount of time throughout a day.
 
 ### Checkout times by Gender
-
+ ![This is an Image]( https://github.com/adamtavi/bikesharing/blob/main/Checkout%20times%20by%20Gender%20.png)
 ### Results
 -	The analysis shows that majority of men utilize the bike service more than women and checkout the bike for a longer duration of time. 
 
