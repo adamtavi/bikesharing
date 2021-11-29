@@ -39,7 +39,7 @@ At the end of the analysis our team comes up with a recommendation on how this b
 -	This shows that most bikes used have an even distribution rate with some outliers but none that are extremely glaring.
 
 ### Bike Upkeep
-
+ ![This is an Image]( https://github.com/adamtavi/bikesharing/blob/main/Bike%20Upkeep.png)
 ### Results
 -	This shows bikes utilization counts – the darker region shows higher bike utilization and the lighter region showing lesser bike utilization. This allows us to see that there are more bikes in the lower bike utilization side than the higher utilization side.
 
