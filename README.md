@@ -19,7 +19,7 @@ At the end of the analysis our team comes up with a recommendation on how this b
 -	The analysis shows that majority of men utilize the bike service more than women and checkout the bike for a longer duration of time. 
 
 ### Trips by Weekday by hour
-
+![This is an Image]( https://github.com/adamtavi/bikesharing/blob/main/Trips%20for%20workday%20by%20each%20hour%20wiz.png)
 ### Results
 -	The data shows that during the morning hours before 6-9am work and after work hours 5-6pm are when the bike is utilized the most by customers.
 
