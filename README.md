@@ -24,6 +24,7 @@ At the end of the analysis our team comes up with a recommendation on how this b
 -	The data shows that during the morning hours before 6-9am work and after work hours 5-6pm are when the bike is utilized the most by customers.
 
 ### Trips by Gender (Weekday per Hour)
+![This is an Image]( https://github.com/adamtavi/bikesharing/blob/main/User%20Trips%20by%20Gender.png)
 
 ### Results
 -	The data shows that men and women utilize the bike service most during the morning hours before 6-9am work and after work hours 5-6pm. The chart shows that men utilize the bike the most during these times than women.
