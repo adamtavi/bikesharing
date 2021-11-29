@@ -34,7 +34,7 @@ At the end of the analysis our team comes up with a recommendation on how this b
 -	The data shows that men are mostly are subscribers to the bike share service than being a one-time customer and the same goes with women. It’s good to note that the business flourishes more on subscribers so to see that most of the customers are subscribers it shows that people are dependent on the bikes as means for transportation.
 
 ### Bike Utilization
-
+![This is an Image]( https://github.com/adamtavi/bikesharing/blob/main/Bike%20Utilization.png)
 ### Results
 -	This shows that most bikes used have an even distribution rate with some outliers but none that are extremely glaring.
 
