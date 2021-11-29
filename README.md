@@ -19,18 +19,17 @@ At the end of the analysis our team comes up with a recommendation on how this b
 -	The analysis shows that majority of men utilize the bike service more than women and checkout the bike for a longer duration of time. 
 
 ### Trips by Weekday by hour
-![This is an Image]( https://github.com/adamtavi/bikesharing/blob/main/Trips%20for%20workday%20by%20each%20hour%20wiz%20(2).png)
+
 ### Results
 -	The data shows that during the morning hours before 6-9am work and after work hours 5-6pm are when the bike is utilized the most by customers.
 
 ### Trips by Gender (Weekday per Hour)
-![This is an Image]( https://github.com/adamtavi/bikesharing/blob/main/User%20Trips%20by%20Gender.png)
-
+![This is an Image]( https://github.com/adamtavi/bikesharing/blob/main/Trips%20for%20workday%20by%20each%20hour%20wiz%20(2).png)
 ### Results
 -	The data shows that men and women utilize the bike service most during the morning hours before 6-9am work and after work hours 5-6pm. The chart shows that men utilize the bike the most during these times than women.
 
 ### User Trips by Gender by Weekday
-
+![This is an Image]( https://github.com/adamtavi/bikesharing/blob/main/User%20Trips%20by%20Gender.png)
 ### Results
 -	The data shows that men are mostly are subscribers to the bike share service than being a one-time customer and the same goes with women. It’s good to note that the business flourishes more on subscribers so to see that most of the customers are subscribers it shows that people are dependent on the bikes as means for transportation.
 
